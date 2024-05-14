@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976192093032",
+    "project_id": "beginnerapp-fa4d3",
+    "storage_bucket": "beginnerapp-fa4d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976192093032:android:730a78ac7503d0e90174dd",
+        "android_client_info": {
+          "package_name": "com.example.beginner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA24ah5o65y7GUiMOSeNTRc9JO_V2ais8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
