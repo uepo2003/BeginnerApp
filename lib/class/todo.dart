@@ -10,6 +10,6 @@ class Todo with _$Todo {
     @Default(false) bool isCompleted,
     required DateTime createdAt,
   }) = _Todo;
-  
+
   factory Todo.fromJson(Map<String, dynamic> json) => _$TodoFromJson(json);
 }

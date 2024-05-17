@@ -11,6 +11,7 @@ class TodoFire with _$TodoFire {
     @Default(false) bool isCompleted,
     @DateTimeTimestampConverter() required DateTime createdAt,
   }) = _TodoFire;
-  
-  factory TodoFire.fromJson(Map<String, dynamic> json) => _$TodoFireFromJson(json);
+
+  factory TodoFire.fromJson(Map<String, dynamic> json) =>
+      _$TodoFireFromJson(json);
 }
